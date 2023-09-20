@@ -153,6 +153,7 @@ select:focus {
 ```
 
 ## JS setup
+==Place below code in /resources/js/app.js==
 ```
 import "./bootstrap";
 
