@@ -10,6 +10,10 @@ composer global require laravel/installer
 ## Creating App
 ```
 laravel new [APP-NAME]
+none
+0
+yes
+mysql
 
 cd [APP-NAME]
 ```
